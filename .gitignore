@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+build
+.env*.local
+.env
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+# Registros locais do FAEBOT (avaliações e perguntas sem resposta)
+.data
